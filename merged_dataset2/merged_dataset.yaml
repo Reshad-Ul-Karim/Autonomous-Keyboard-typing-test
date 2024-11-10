@@ -1,0 +1,6 @@
+train: /Users/reshadsazid/keyboard/merged_dataset2/train/images
+val: /Users/reshadsazid/keyboard/merged_dataset2/valid/images
+test: /Users/reshadsazid/keyboard/merged_dataset2/test/images
+
+names:
+- Keyboard
